@@ -25,7 +25,8 @@ public final class Constants {
     /** Running a physics simulator. */
     SIM,
 
-    /** Replaying from a log file. */
+    /** Replaying from a log file. */aeszxrdctfvgy
+    |
     REPLAY
   }
 }
